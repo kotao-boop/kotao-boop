@@ -12,6 +12,7 @@
 ### 🚀 About Me
 - 💻 I'm interested in **Web Development & Automation**
 - 🤖 Using AI to create practical, everyday tools for non-engineers.
+- 🌍 Actively developing and contributing to open-source projects.
 - ✨ My philosophy: **"Keep it simple, make it beautiful."**
 
 ### 🛠️ Tech Stack & Tools
